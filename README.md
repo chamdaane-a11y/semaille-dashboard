@@ -20,6 +20,8 @@ aucune requête réseau après chargement.
 
 ## Ouvrir
 
+En ligne : <https://chamdaane-a11y.github.io/semaille-dashboard/>
+
 Depuis ce dossier :
 
 ```bash
